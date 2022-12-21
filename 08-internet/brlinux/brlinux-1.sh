@@ -1,14 +1,14 @@
 #!/bin/bash
 # brlinux-1.sh
-# Mostra as 5 últimas manchetes do BR-Linux
-# Versão 1 que procura no texto
+# Mostra as 5 ï¿½ltimas manchetes do BR-Linux
+# Versï¿½o 1 que procura no texto
 #
-# Aurélio, Agosto de 2006
+# Aurï¿½lio, Agosto de 2006
 
 URL="http://br-linux.org"
 
-# O padrão são linhas que iniciam com maiúsculas.
-# Até a linha "Destaques de hoje" é lixo.
+# O padrï¿½o sï¿½o linhas que iniciam com maiï¿½sculas.
+# Atï¿½ a linha "Destaques de hoje" ï¿½ lixo.
 #
 lynx -dump -nolist "$URL" |
 	grep '^[A-Z]' |
