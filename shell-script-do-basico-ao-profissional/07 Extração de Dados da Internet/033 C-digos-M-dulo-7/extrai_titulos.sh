@@ -3,8 +3,8 @@
 # extrai_titulos.sh - Extrai titulos do blog
 #
 # Site:       https://4fasters.com.br
-# Autor:      Mateus Müller
-# Manutenção: Mateus Müller
+# Autor:      Guilherme Goulart
+# Manutenção: Guilherme Goulart
 #
 # ------------------------------------------------------------------------ #
 #  Este programa irá extrair títulos do blog LXER, colocar em um arquivo de
@@ -16,7 +16,7 @@
 # ------------------------------------------------------------------------ #
 # Histórico:
 #
-#   v1.0 03/10/2018, Mateus:
+#   v1.0 03/10/2018, Guilherme:
 #       - Montamos a expressões regular com fator em comum
 #   v1.1 10/10/2018, Lucas:
 #       - Criado primeiro código com cores

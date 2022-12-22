@@ -3,8 +3,8 @@
 # sistema_de_usuarios.sh - Sistema para gerenciamento de usuários
 #
 # Site:       https://4fasters.com.br
-# Autor:      Mateus Gabriel
-# Manutenção: Mateus Gabriel
+# Autor:      Guilherme Gabriel
+# Manutenção: Guilherme Gabriel
 #
 # ------------------------------------------------------------------------ #
 #  Este programa faz todas as funções de gerenciamento de usuários, como:
@@ -16,7 +16,7 @@
 # ------------------------------------------------------------------------ #
 # Histórico:
 #
-#   v1.0 06/10/2018, Mateus:
+#   v1.0 06/10/2018, Guilherme:
 #       - Tratamento de erros com relação ao arquivo do banco de dados
 #       - Lista usuários
 # ------------------------------------------------------------------------ #

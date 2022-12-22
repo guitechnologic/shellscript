@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-NOME="Mateus
+NOME="Guilherme
 
 Gabriel"
 
@@ -13,7 +13,7 @@ TOTAL=$(($NUMERO_1+$NUMERO_2))
 
 echo "$TOTAL"
 
-SAIDA_CAT="$(cat /etc/passwd | grep mateus)"
+SAIDA_CAT="$(cat /etc/passwd | grep Guilherme)"
 
 echo "$SAIDA_CAT"
 

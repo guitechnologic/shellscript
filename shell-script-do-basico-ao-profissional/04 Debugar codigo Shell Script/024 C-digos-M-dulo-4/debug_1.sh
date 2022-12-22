@@ -3,8 +3,8 @@
 # listaUsuarios.sh - Extrai usuários do /etc/passwd
 #
 # Site:       https://4fasters.com.br
-# Autor:      Mateus Müller
-# Manutenção: Mateus Müller
+# Autor:      Guilherme Goulart
+# Manutenção: Guilherme Goulart
 #
 # ------------------------------------------------------------------------ #
 #  Irá extrair usuários do /etc/passwd, havendo a possibilidade de colocar
@@ -16,15 +16,15 @@
 # ------------------------------------------------------------------------ #
 # Histórico:
 #
-#   v1.0 03/10/2018, Mateus:
+#   v1.0 03/10/2018, Guilherme:
 #     - Adicionado -s, -h & -v
-#   v1.1 03/10/2018, Mateus:
+#   v1.1 03/10/2018, Guilherme:
 #     - Trocamos IF pelo CASE
 #     - Adicionamos basename
-#   v1.2 03/10/2018, Mateus:
+#   v1.2 03/10/2018, Guilherme:
 #     - Adicionado -m
 #     - Adicionado 2 flags
-#   v1.3 03/10/2018, Mateus:
+#   v1.3 03/10/2018, Guilherme:
 #     - Adicionado while com shift e teste de variável
 #     - Adicionado 2 flags
 # ------------------------------------------------------------------------ #

@@ -3,8 +3,8 @@
 # cotarBitcoin.sh - Verifica a última cotação do Bitcoin
 #
 # Site:       https://4fasters.com.br
-# Autor:      Mateus Müller
-# Manutenção: Mateus Müller
+# Autor:      Guilherme Goulart
+# Manutenção: Guilherme Goulart
 #
 # ------------------------------------------------------------------------ #
 #  Este programa irá cotar o último valor do Bitcoin com base na API xxxx
@@ -15,7 +15,7 @@
 # ------------------------------------------------------------------------ #
 # Histórico:
 #
-#   v1.0 03/10/2018, Mateus:
+#   v1.0 03/10/2018, Guilherme:
 #       - Início do programa
 #       - Conta com a funcionalidade X
 #   v1.1 10/10/2018, Lucas:
